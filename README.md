@@ -1,7 +1,6 @@
-# WishList
-Wishlist
-Wishlit is a super cool to add your bucket list, and have stored for a life time.
+# Wish-List
+Wish-list or we can say BucketList is a site where you can add things you want to do or add stuff you want to buy....
 
-Tech Stack
+# Tech Stack
 HTML/CSS
 Javascript
